@@ -48,8 +48,11 @@ Before moving on to generate our terrain we'll need to do a tiny bit of basic se
 
 First let's go to the 'Global Settings' tab. There are a lot of settings here, but for now all we're going to do for now is define layers for chunks and grass.
 * Define two new Layers, one for uTerrains Chunks and one for uTerrains Grass. It's not strictly necessary to define the layer for grass right now, but while we're here we might as well do it.
+
 ![Defining Layers for Chunks and Grass](images/setup-from-scratch/uterrain-layers.png)
+
 * Expand the **General Settings** rollout (if it isn't already open) and find the section at the bottom that says 'Choose the layer of terrain's chunks'.
+
 ![Defining Layers for Chunks and Grass](images/setup-from-scratch/uterrain-layers-2.png)
 
 ### Voxel Types
