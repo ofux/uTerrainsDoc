@@ -48,9 +48,9 @@ Before moving on to generate our terrain we'll need to do a tiny bit of basic se
 
 First let's go to the 'Global Settings' tab. There are a lot of settings here, but for now all we're going to do for now is define layers for chunks and grass.
 * Define two new Layers, one for uTerrains Chunks and one for uTerrains Grass. It's not strictly necessary to define the layer for grass right now, but while we're here we might as well do it.
-![Defining Layers for Chunks and Grass](images/setup-from-scratch/uterrains-layers.png)
+![Defining Layers for Chunks and Grass](images/setup-from-scratch/uterrain-layers.png)
 * Expand the **General Settings** rollout (if it isn't already open) and find the section at the bottom that says 'Choose the layer of terrain's chunks'.
-![Defining Layers for Chunks and Grass](images/setup-from-scratch/uterrains-layers-2.png)
+![Defining Layers for Chunks and Grass](images/setup-from-scratch/uterrain-layers-2.png)
 
 ### Voxel Types
 
@@ -87,8 +87,6 @@ Finally, and most importantly, this section is where we define the different typ
 
 As you can see, uTerrain's Voxel Types are defined by a fairly simple set of parameters. We'll only touch a few of these for now, but if you would like more info about each parameter, check out the documentation for [Voxel Types](voxel-types.md)
 
-![Voxel Type Rollout](images/setup-from-scratch/uterrain-voxel-type-overview.png)
-
 Let's set up a few Voxel Types to work with in our terrain:
 * Add two more Voxel Types by clicking the *Add Voxel Type* button.
 * Rename the one called "My Voxel Type" to "Rock" and the other two to "Grass" and "Snow".
@@ -124,7 +122,7 @@ Now that we have our basic setup complete we can get to the meat of uTerrains. T
 
 In the uTerrains Inspector, select the Biomes tab.
 
-![The Biomes Tab](images/biomes-tab-overview.png)
+![The Biomes Tab](images/setup-from-scratch/biomes-tab-overview.png)
 
 #### Preview
 
@@ -152,7 +150,7 @@ Since we don't really have any biomes set up yet, it's a bit early to try to dec
 
 Alright, let's create our first biome! Take a look at the next section of the Biomes tab, simply called 'Biomes'.
 
-![The Biomes section](images/setup-from-scratc/biomes-tab-biomes-overview.png)
+![The Biomes section](images/setup-from-scratch/biomes-tab-biomes-overview.png)
 
 You'll see that one Biome has already been added by default, but let's create our own to use:
 * In the Project view, navigate to `Assets/uTerrains/Biomes/`
@@ -282,7 +280,7 @@ Instead, let's click *Edit Biome Selector* in the section above.
 
 As should be fairly apparent, the *Biome Selector Editor* uses the same node editor that the *Biome Editor* does, however it works a little differently. Instead of voxel values, at any given x,y,z point in the terrain the biome selector will select the Biome receiving the highest output to generate a voxel value.
 
-![The simplest Biome Selector](images/tutorials/setup-from-scratch/biome-selector-editor-simplest.png)
+![The simplest Biome Selector](images/setup-from-scratch/biome-selector-editor-simplest.png)
 
 It can be a bit confusing to think about this at first without seeing it in action, so let's try it out:
 * Right click in some empty space to create a new node. Select *Final > Biome Selection*.
@@ -294,7 +292,7 @@ Now we have 2 final nodes. Let's start out with a very simple example of how to 
 * Attach the output of the *Fast Noise 2D* node to both the Grassy Hills *Biome Selection* node AND the input handle of the *Invert* node.
 * Finally, attach the output of the *Invert* node to the Weight handle of the Rocky Mountains *Biome Selection* node.
 
-![A basic 2d noise-based Biome Selector](images/setup-from-scratch.biome-selector-editor-basic.png)
+![A basic 2d noise-based Biome Selector](images/setup-from-scratch/biome-selector-editor-basic.png)
 
 If we preview the terrain now, we should see alternating patches of our Grassy Hills Biome and our Rocky Mountains Biome (currently flat).
 
