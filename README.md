@@ -16,7 +16,7 @@ You can use these scenes to get an idea of how to setup a terrain, but I strongl
 
 ### Overview in video
 
-<iframe src="https://www.youtube.com/embed/gpsxX0kHlHI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+Get a look at our video tutorial (might not be as up-to-date as the written documentation) here: https://youtu.be/gpsxX0kHlHI
 
 ### Setup your terrain from scratch
 
