@@ -28,8 +28,6 @@ Good for generating a heightfield.
    </td>
    <td>
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/uTerrain-Node1.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -48,9 +46,6 @@ Good for generating a heightfield.
    <td>Other Noises 2D
    </td>
    <td>
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/uTerrain-Node2.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -77,9 +72,6 @@ Good for generating a heightfield.
    <td>Fast Noise 3D
    </td>
    <td>
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node3.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/uTerrain-Node3.png" width="" alt="alt_text" title="image_tooltip">
 
