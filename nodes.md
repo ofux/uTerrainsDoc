@@ -91,9 +91,6 @@ Can be used to generates "blobs in space," "floating islands," disassociated poc
    </td>
    <td>
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node4.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/uTerrain-Node4.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -120,9 +117,6 @@ Can be used to generates "blobs in space," "floating islands," disassociated poc
    </td>
    <td>
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node5.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/uTerrain-Node5.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -141,9 +135,6 @@ Example: if weight = 0.25, input1 = 2, input2 = 1: \
    </td>
    <td>
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node6.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/uTerrain-Node6.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -154,9 +145,6 @@ Example: if weight = 0.25, input1 = 2, input2 = 1: \
    <td>Blend: Multiply
    </td>
    <td>
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node7.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/uTerrain-Node7.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -169,9 +157,6 @@ Example: if weight = 0.25, input1 = 2, input2 = 1: \
    </td>
    <td>
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node8.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/uTerrain-Node8.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -182,9 +167,6 @@ Example: if weight = 0.25, input1 = 2, input2 = 1: \
    <td>Blend: Max
    </td>
    <td>
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node9.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/uTerrain-Node9.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -205,9 +187,6 @@ Example: if weight = 0.25, input1 = 2, input2 = 1: \
    </td>
    <td>
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node10.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/uTerrain-Node10.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -218,8 +197,6 @@ Example: if weight = 0.25, input1 = 2, input2 = 1: \
    <td>Clamp
    </td>
    <td>
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node11.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 <img src="images/uTerrain-Node11.png" width="" alt="alt_text" title="image_tooltip">
@@ -233,9 +210,6 @@ Example: if weight = 0.25, input1 = 2, input2 = 1: \
    </td>
    <td>
 
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node12.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/uTerrain-Node12.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -246,9 +220,6 @@ Example: if weight = 0.25, input1 = 2, input2 = 1: \
    <td>Invert
    </td>
    <td>
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node13.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/uTerrain-Node13.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -261,9 +232,6 @@ Example: if weight = 0.25, input1 = 2, input2 = 1: \
    </td>
    <td>
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node14.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/uTerrain-Node14.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -275,9 +243,6 @@ Example: if weight = 0.25, input1 = 2, input2 = 1: \
    </td>
    <td>
 
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node15.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/uTerrain-Node15.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -288,9 +253,6 @@ Example: if weight = 0.25, input1 = 2, input2 = 1: \
    <td>Terrace
    </td>
    <td>
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node16.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/uTerrain-Node16.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -313,9 +275,6 @@ Width is dynamic: width (constant width) * input_width
    </td>
    <td>
 
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node17.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/uTerrain-Node17.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -326,9 +285,6 @@ Width is dynamic: width (constant width) * input_width
    <td>To Slope
    </td>
    <td>
-
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node18.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/uTerrain-Node18.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -350,9 +306,6 @@ Width is dynamic: width (constant width) * input_width
    </td>
    <td>
 
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node19.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/uTerrain-Node19.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -364,9 +317,6 @@ Width is dynamic: width (constant width) * input_width
    </td>
    <td>
 
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node20.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/uTerrain-Node20.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -377,9 +327,6 @@ Width is dynamic: width (constant width) * input_width
    <td>Final
    </td>
    <td>
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node21.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/uTerrain-Node21.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -400,9 +347,6 @@ Width is dynamic: width (constant width) * input_width
    </td>
    <td>
 
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node22.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/uTerrain-Node22.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -421,9 +365,6 @@ Width is dynamic: width (constant width) * input_width
    <td>Constant
    </td>
    <td>
-
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/uTerrain-Node23.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/uTerrain-Node23.png" width="" alt="alt_text" title="image_tooltip">
 
