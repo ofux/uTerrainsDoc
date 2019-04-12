@@ -26,6 +26,11 @@ See [this page](setup-from-scratch.md) page for a detailed, step-by-step tutoria
 
 - [Global Settings](global-settings.md)
 
+## Node based editor
+
+- [Overview](node-based-editor.md)
+- [Nodes reference](nodes.md)
+
 ## Editor tool
 
 The Editor tool allows to manipulate the terrain directly within Unity editor. See [this page](editor-tool.md) page for more information.
