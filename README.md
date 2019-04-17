@@ -28,8 +28,10 @@ See [this page](setup-from-scratch.md) page for a detailed, step-by-step tutoria
 
 ## Node based editor
 
+Ultimate Terrains let's you configure terrain generation through a node-based editor. This is highly flexible and powerful. A lot of built-in nodes are provided but you can implement your own ones easily.
 - [Overview](node-based-editor.md)
 - [Nodes reference](nodes.md)
+- [Source code of all nodes](https://github.com/ofux/uTerrainsExtensions/tree/master/Nodes)
 
 ## Editor tool
 
@@ -38,6 +40,8 @@ The Editor tool allows to manipulate the terrain directly within Unity editor. S
 ## Real-time editing
 
 In Ultimate Terrains, real-time modifications are made through operations. See [this page](operations.md) page for more information.
+
+Ultimate terrains provides many built-in operations but as for nodes, you can implement your own ones easily. See [here](https://github.com/ofux/uTerrainsExtensions/tree/master/Operations) to get a look at the source code of built-in operations.
 
 ## Saving, loading and sync over network
 
