@@ -39,9 +39,9 @@ The Editor tool allows to manipulate the terrain directly within Unity editor. S
 
 In Ultimate Terrains, real-time modifications are made through operations. See [this page](operations.md) page for more information.
 
-## Saving and loading
+## Saving, loading and sync over network
 
-See [this page](save-load.md) page to see how to save and load terrain data on disk or through the network.
+See [this page](save-load.md) page to see how to save, load and sync terrain data on disk or through the network.
 
 ## Third party assets integration
 
